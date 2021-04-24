@@ -58,6 +58,6 @@ DevQuiz is composed basically by four pages:
 
 
 
-### Created by: [José Augusto Coura](https://github.com/joseaugusto0)
+### Created by: [José Augusto Coura](https://github.com/joseaugusto0) and [Gabul Sávio](https://github.com/gabuldev)
 
 
