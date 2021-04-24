@@ -13,7 +13,7 @@
 
 
 ## Instalation
-- Install Flutter and Dart plugins in VS Code - [Install](https://flutter.dev/docs/get-started/editor?tab=vscode)
+- Install Flutter and Dart plugins in VS Code - [Flutter Site Steps](https://flutter.dev/docs/get-started/editor?tab=vscode)
     1. Start VS Code
     2. Invoke **View > Command Pallete...**
     3. Type “install”, and select **Extensions: Install Extensions**
@@ -31,9 +31,9 @@
         - Your mobile need to appear in list generated after the command
         - Et voilà
 
-- Clone all the repository quoted in [DevQuiz Project](https://github.com/joseaugusto0/DevQuiz_NLW5_Flutter)
+- Clone all the repository quoted in [DevQuiz Repository](https://github.com/joseaugusto0/DevQuiz_NLW5_Flutter)
 
-- Open VS Code at */devquiz/* folder
+- Open VS Code at *devquiz/* folder
 
 - Type F5 and your application will start do build in your mobile
 
@@ -42,7 +42,7 @@ DevQuiz is composed basically by four pages:
 
 ### 1 - Splash Page
 <img src="https://github.com/joseaugusto0/DevQuiz_NLW5_Flutter/blob/main/images/Screenshot_20210423-223102.jpg" width="360" height="640">
-    This page appears in app inicialization for two seconds and go for the **Home Page**
+    This page appears in app inicialization for two seconds and go for the Home Page
 
 ### 2 - Home Page 
 <img src="https://github.com/joseaugusto0/DevQuiz_NLW5_Flutter/blob/main/images/Screenshot_20210423-223106.jpg" width="360" height="640">
@@ -58,6 +58,6 @@ DevQuiz is composed basically by four pages:
 
 
 
-### Created by: [José Augusto Coura](https://github.com/joseaugusto0) and [Gabul Sávio](https://github.com/gabuldev)
+### Created by: [José Augusto Coura](https://github.com/joseaugusto0) and [Teacher Gabul Sávio](https://github.com/gabuldev)
 
 
