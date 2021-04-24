@@ -7,9 +7,17 @@ class QuestionModel {
   final List<AnswerModel> answers;
 
   QuestionModel({
-    required this.title, 
+    required this.title,
     required this.answers}) : assert(answers.length == 4);
     
+  String getRightAnswer() {
+    var textRightAnswer;
+    for(var i = 0; i < answers.length; i++)
+      if(answers[i].isRight)
+        textRightAnswer = answers[i].title;
+
+    return textRightAnswer;
+  }
 
   Map<String, dynamic> toMap() {
     return {

@@ -1,3 +1,4 @@
+import 'package:DevQuiz/challenge/feedback_page.dart';
 import 'package:flutter/material.dart';
 
 import 'package:DevQuiz/challenge/challenge_controller.dart';
@@ -39,8 +40,8 @@ class _ChallengePageState extends State<ChallengePage> {
           duration: Duration(milliseconds: 200), curve: Curves.linear);
   }
 
-  void onSelected(bool value) {
-    if(value){
+  void onSelected(bool isRight) {
+    if(isRight){
       controller.rightAnswers++;
     }
     nextPage();
