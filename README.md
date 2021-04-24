@@ -40,21 +40,11 @@
 
 
 ## Project structure
-    DevQuiz is composed basically by four pages:
+DevQuiz is composed basically by four pages:
 
-    ### Splash Page
-        ![Splash-Page](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg)
-```bash
-.
-├── devquiz     # Main folder with application
-    ├── .gradle             
+### Splash Page
+    ![Splash-Page](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg)
 
-        ├── beef3d_utils #Folder with utilitaries to main scripts (like parameters, led control)
-        ├── static       #Folder that contains HTML static things in FlaskApp 
-            ├── css      #Stylesheet 
-            ├── img      #Images used in FlaskApp
-        ├── templates    #All .html files used in FlaskApp
-```
 
 ## Technologies
 Project is created with:
