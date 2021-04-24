@@ -10,6 +10,7 @@
 
 - [Instalation](#instalation)
 - [Project Pages](#project-pages)
+- [Challenges Proposed](#challenges-proposed)
 
 
 ## Instalation
@@ -56,7 +57,13 @@ DevQuiz is composed basically by four pages:
 <img src="https://github.com/joseaugusto0/DevQuiz_NLW5_Flutter/blob/main/images/Screenshot_20210423-223119.jpg" width="360" height="640">
     Will appear the title of the module your answered, the number of questions that you got it right, a share button (to you share in your social media) and a return button
 
-
+## Challenges Proposed
+At the final of the programming week, was proposed some changes in the project, some challenges to all the devs who followed the classes. To make it more dinamic, I will put the challenges here as task list and updating according to my development
+- [] Add a difficult filter to Quiz modules (appear just the modules from difficult selected)
+- [] "Confirm" button appears only when the user answers all the questions 
+- [] Add a Feedback page when the user selects a answer (saying if he's right or not)
+- [] Put all the information in a external BD, taking out all the local files with personal informations
+- [] Improve the results sharing
 
 ### Created by: [José Augusto Coura](https://github.com/joseaugusto0) and [Teacher Gabul Sávio](https://github.com/gabuldev)
 
