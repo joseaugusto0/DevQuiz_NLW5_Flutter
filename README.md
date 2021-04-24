@@ -59,11 +59,11 @@ DevQuiz is composed basically by four pages:
 
 ## Challenges Proposed
 At the final of the programming week, was proposed some changes in the project, some challenges to all the devs who followed the classes. To make it more dinamic, I will put the challenges here as task list and updating according to my development
-- [] Add a difficult filter to Quiz modules (appear just the modules from difficult selected)
-- [] "Confirm" button appears only when the user answers all the questions 
-- [] Add a Feedback page when the user selects a answer (saying if he's right or not)
-- [] Put all the information in a external BD, taking out all the local files with personal informations
-- [] Improve the results sharing
+- [ ] Add a difficult filter to Quiz modules (appear just the modules from difficult selected)
+- [ ] "Confirm" button appears only when the user answers all the questions 
+- [ ] Add a Feedback page when the user selects a answer (saying if he's right or not)
+- [ ] Put all the information in a external BD, taking out all the local files with personal informations
+- [ ] Improve the results sharing
 
 ### Created by: [José Augusto Coura](https://github.com/joseaugusto0) and [Teacher Gabul Sávio](https://github.com/gabuldev)
 
